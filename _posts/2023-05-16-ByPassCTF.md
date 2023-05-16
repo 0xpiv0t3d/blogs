@@ -4,6 +4,8 @@ tags: Web Crypto Forensics Osint Misc
 ---
 # ByPassCTF-2023
 
+Information Security & Digital Forensics Club (ISDF) of the Army Institute of Technology organized 'Bypass CTF', a 24-hour Capture-the-Flag competition with challenges in categories such as Web, OSINT, Crypto, and more. Compete solo in a challenging and rewarding competition to demonstrate your cybersecurity expertise. Below are the writeup of the challenges that I had solved.
+
 ## MISC
 ### nOOb
 ![[images/Misc-1.png]]|center]]
