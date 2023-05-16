@@ -102,6 +102,7 @@ FLAG : ByPassCTF{F1L3_S1gN4TuR3S}
 ![FORENSICS](images/Raazi-1.png)
 
 - The challenge had an audio file attached with it. There was a morse code in between.
+
 ![FORENSICS](images/Raazi-2.png)
 
 ```ruby
