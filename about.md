@@ -28,4 +28,5 @@ key: page-about
 
 ![Wln5t0n](assets/avatar.jpeg)
 
+Hey Harsha here aka 0xpiv0t3d. I am a dedicated and passionate cyber security student pursuing a degree in the field. Currently inclined towards web and linux pentesting testing with a keen interest in cryptography. Basically your next door noob!
 
