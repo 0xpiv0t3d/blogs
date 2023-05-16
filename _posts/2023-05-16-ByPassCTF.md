@@ -90,6 +90,7 @@ endobj
 
 `What if you get a .exe file with .pdf extension and you double click it?`
 - Decided to change the extension to .pdf and got the flag
+
 ![FORENSICS](images/Kessler-2.png)
 
 ```ruby
