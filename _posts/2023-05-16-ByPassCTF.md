@@ -56,6 +56,7 @@ FLAG : ByPassCTF{Arigato_Gozaimasu}
 ![[images/Kessler-1.png|center]]
 
 - After downloading the file I decided to check it's strings and got something in the output.
+
 ```ruby
 ┌──(kali㉿kali)-[~/Desktop]
 └─$ strings signature.exe 
