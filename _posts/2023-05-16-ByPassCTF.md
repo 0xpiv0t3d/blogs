@@ -8,7 +8,7 @@ Information Security & Digital Forensics Club (ISDF) of the Army Institute of Te
 
 ## MISC
 ### nOOb
-![[images/Misc-1.png]]
+![[/images/Misc-1.png]]
 
 ```ruby
 FLAG : bypassCTF{zakhme_dil_chupake_royenge}
@@ -16,11 +16,11 @@ FLAG : bypassCTF{zakhme_dil_chupake_royenge}
 
 ## WEB
 ### KalaJadu
-![[images/Web-1.png]]
+![[/images/Web-1.png]]
 
 - Checking the website led us to a login page. I decided to analyze the code of the page and saw a  `stealcred.php` code. The code basically was storing all the creds in `pass.txt` file. 
 
-![[images/Web-2.png]]
+![[/images/Web-2.png]]
 
 ```ruby
 FLAG : bypassCTF{KalaJadu_Plays_With_Your_Mind}
@@ -29,10 +29,10 @@ FLAG : bypassCTF{KalaJadu_Plays_With_Your_Mind}
 
 ## CRYPTO
 ### Opener
-![[images/Opener-1.png]]
+![[/images/Opener-1.png]]
 
 - The attached image had the pigpen cipher. Decoding it gave the flag.
-![[images/Opener-2.png]]
+![[/images/Opener-2.png]]
 
 ```ruby
 FLAG : ByPassCTF{HACHISPIN_TO_WIN}
@@ -40,11 +40,11 @@ FLAG : ByPassCTF{HACHISPIN_TO_WIN}
 
 
 ### Secret Transmission
-![[images/Secret-1.png]]
+![[/images/Secret-1.png]]
 
 - The name "Affine" and "Thank you" gave an idea that it is in Affine cipher and thus decoding it gave the Japanese for "Thank You"
 
-![[images/Secret-2.png]]
+![[/images/Secret-2.png]]
 
 ```ruby
 FLAG : ByPassCTF{Arigato_Gozaimasu}
@@ -53,7 +53,7 @@ FLAG : ByPassCTF{Arigato_Gozaimasu}
 
 ## FORENSICS
 ### Kessler King
-![[images/Kessler-1.png]]
+![[/images/Kessler-1.png]]
 
 - After downloading the file I decided to check it's strings and got something in the output.
 
@@ -90,7 +90,7 @@ endobj
 
 `What if you get a .exe file with .pdf extension and you double click it?`
 - Decided to change the extension to .pdf and got the flag
-![[images/Kessler-2.png]]
+![[/images/Kessler-2.png]]
 
 ```ruby
 FLAG : ByPassCTF{F1L3_S1gN4TuR3S}
@@ -98,10 +98,10 @@ FLAG : ByPassCTF{F1L3_S1gN4TuR3S}
 
 
 ### Raazi
-![[images/Raazi-1.png]]
+![[/images/Raazi-1.png]]
 
 - The challenge had an audio file attached with it. There was a morse code in between.
-![[images/Raazi-2.png]]
+![[/images/Raazi-2.png]]
 
 ```ruby
 bypassCTF{H34RW1THY0UR3Y35}
@@ -109,11 +109,11 @@ bypassCTF{H34RW1THY0UR3Y35}
 
 
 ### Selena Gomez
-![[images/Selena-1.png]]
+![[/images/Selena-1.png]]
 
 - Started with the basic enumeration i.e checking it's metadata, strings, hex, etc. 
 - Found the flag in the metadata.
-![[images/Selena-2.png]]
+![[/images/Selena-2.png]]
 
 
 ```ruby
