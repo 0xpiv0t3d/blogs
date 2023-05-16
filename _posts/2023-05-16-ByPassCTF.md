@@ -114,6 +114,7 @@ bypassCTF{H34RW1THY0UR3Y35}
 
 - Started with the basic enumeration i.e checking it's metadata, strings, hex, etc. 
 - Found the flag in the metadata.
+
 ![FORENSICS](images/Selena-2.png)
 
 
