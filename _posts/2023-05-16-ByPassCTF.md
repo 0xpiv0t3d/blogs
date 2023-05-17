@@ -8,7 +8,7 @@ Information Security & Digital Forensics Club (ISDF) of the Army Institute of Te
 
 ## MISC
 ### nOOb
-![MISC](https://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/11/27/1354030427030/Im-online-note-on-a-keybo-010.jpg)
+![MISC](https://github.com/0xpiv0t3d/blogs/blob/master/_posts/images/Misc-1.png)
 
 ```ruby
 FLAG : bypassCTF{zakhme_dil_chupake_royenge}
