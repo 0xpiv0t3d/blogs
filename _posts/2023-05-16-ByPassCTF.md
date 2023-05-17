@@ -8,7 +8,7 @@ Information Security & Digital Forensics Club (ISDF) of the Army Institute of Te
 
 ## MISC
 ### nOOb
-![MISC](https://github.com/0xpiv0t3d/blogs/blob/master/_posts/images/Misc-1.png)
+![MISC](_posts/images/Misc-1.png)
 
 ```ruby
 FLAG : bypassCTF{zakhme_dil_chupake_royenge}
