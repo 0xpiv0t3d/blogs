@@ -1,3 +1,8 @@
+---
+title: Forensics Case B4DM755 [WRITEUP]
+tags: THM Forensics FTKImager
+---
+
 In this room, we will simulate an actual crime scenario whereby a court of law has authorised us to conduct a search on a specific person and analyse obtained artefacts and evidence.
 
 ## Case B4DM755: Details of the Crime
